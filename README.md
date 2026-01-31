@@ -18,4 +18,5 @@ The task also emphasizes frontend and backend integration, ensuring smooth commu
 Additionally, this project helps in understanding important concepts such as event-driven programming, real-time data flow, client-server architecture, and asynchronous communication. It serves as a foundational project for learning more advanced features like private messaging, chat rooms, user authentication, message persistence using databases, and deployment of real-time applications.
 The final deliverable of this task is a fully functional live siding chat application where multiple users can communicate in real time through an interactive interface, demonstrating successful frontend and backend integration using WebSocket or Socket.IO. This project showcases practical full-stack development skills and provides hands-on experience with real-time web technologies, which are essential in modern web application development.
 
-Output- 
+Output- <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/10bd37a1-b393-4d46-8424-3b0043ab834b" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/22027484-faf1-40ad-8c2c-3f6029ada5e4" />
